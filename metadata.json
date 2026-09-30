@@ -1,0 +1,6 @@
+{
+  "name": "Vantage BI - Sales Performance Dashboard",
+  "description": "Executive sales performance intelligence dashboard with automated data cleaning, monthly/quarterly/yearly trends, top & low-performing product analysis, regional and categorical breakdowns, and interactive Power BI-grade filtering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
